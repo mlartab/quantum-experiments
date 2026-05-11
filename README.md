@@ -44,7 +44,6 @@ instantly determines the other. Einstein called it
 Result: 98.5% of measurements were perfectly correlated pairs.
 That 1.5% difference is simulated real hardware noise.
 
-![Bell State](images/bell_state_result.png)
 
 ---
 
