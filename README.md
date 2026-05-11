@@ -42,6 +42,7 @@ instantly determines the other. Einstein called it
 "spooky action at a distance" and refused to believe it.
 
 Result: 98.5% of measurements were perfectly correlated pairs.
+![Bell State](images/bell_state_result.png)
 That 1.5% difference is simulated real hardware noise.
 
 
@@ -80,7 +81,7 @@ Every other value: under 35 times each.
 
 That gap is quantum speedup made visible.
 
-![Grover's Algorithm](images/grovers_algorithm.png)
+![Grovers Algorithm](images/grovers_algorithm.png)
 
 ---
 
@@ -97,7 +98,7 @@ Shor's reads those frequencies to find prime factors.
 
 4 qubits. 16 states. Input: number 6 in binary (0110).
 
-![QFT](images/quantum_fourier_transform.png)
+![Quantum Fourier Transform](images/quantum_fourier_transform.png)
 
 ---
 
