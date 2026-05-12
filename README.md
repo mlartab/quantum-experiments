@@ -144,13 +144,7 @@ I ran these experiments on the same day I learned what a qubit was.
 
 ---
 
-## Honest Disclaimer
 
-This is a simulation. Not a real quantum computer.
-The results reflect real quantum noise models from Google's hardware.
-The mathematics is real. The scale is limited to ~20 qubits on a laptop.
-
----
 
 ### 5. Quantum Belief Network — Misinformation as Decoherence
 **File:** `experiments/05_quantum_belief_network.py`
@@ -166,3 +160,11 @@ Key findings:
 - Network topology matters more than propaganda intensity
 
 ![Quantum Belief Network](images/quantum_belief_network.png)
+---
+## Honest Disclaimer
+
+This is a simulation. Not a real quantum computer.
+The results reflect real quantum noise models from Google's hardware.
+The mathematics is real. The scale is limited to ~20 qubits on a laptop.
+
+
