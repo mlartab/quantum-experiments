@@ -149,3 +149,20 @@ I ran these experiments on the same day I learned what a qubit was.
 This is a simulation. Not a real quantum computer.
 The results reflect real quantum noise models from Google's hardware.
 The mathematics is real. The scale is limited to ~20 qubits on a laptop.
+
+---
+
+### 5. Quantum Belief Network — Misinformation as Decoherence
+**File:** `experiments/05_quantum_belief_network.py`
+
+A novel model treating human belief as quantum superposition.
+Each person is a qubit. Social connections are entanglement.
+Forming an opinion is measurement collapse.
+
+Key findings:
+- Propaganda follows a quantum cosine curve — slow then sudden
+- Journalism achieves 100% recovery mathematically — distribution is the real problem
+- Open networks are 25% more resistant to misinformation than echo chambers
+- Network topology matters more than propaganda intensity
+
+![Quantum Belief Network](images/quantum_belief_network.png)
