@@ -101,6 +101,21 @@ Shor's reads those frequencies to find prime factors.
 ![Quantum Fourier Transform](images/quantum_fourier_transform.png)
 
 ---
+### 5. Quantum Belief Network — Misinformation as Decoherence
+**File:** `experiments/05_quantum_belief_network.py`
+
+A novel model treating human belief as quantum superposition.
+Each person is a qubit. Social connections are entanglement.
+Forming an opinion is measurement collapse.
+
+Key findings:
+- Propaganda follows a quantum cosine curve — slow then sudden
+- Journalism achieves 100% recovery mathematically — distribution is the real problem
+- Open networks are 25% more resistant to misinformation than echo chambers
+- Network topology matters more than propaganda intensity
+
+![Quantum Belief Network](images/quantum_belief_network.png)
+---
 
 ## How to Run This Yourself
 
@@ -145,22 +160,6 @@ I ran these experiments on the same day I learned what a qubit was.
 ---
 
 
-
-### 5. Quantum Belief Network — Misinformation as Decoherence
-**File:** `experiments/05_quantum_belief_network.py`
-
-A novel model treating human belief as quantum superposition.
-Each person is a qubit. Social connections are entanglement.
-Forming an opinion is measurement collapse.
-
-Key findings:
-- Propaganda follows a quantum cosine curve — slow then sudden
-- Journalism achieves 100% recovery mathematically — distribution is the real problem
-- Open networks are 25% more resistant to misinformation than echo chambers
-- Network topology matters more than propaganda intensity
-
-![Quantum Belief Network](images/quantum_belief_network.png)
----
 ## Honest Disclaimer
 
 This is a simulation. Not a real quantum computer.
